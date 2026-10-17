@@ -1,5 +1,0 @@
-Employee App v1
-Employee App v2
-Employee App v3
-Login feature
-Github version 1
